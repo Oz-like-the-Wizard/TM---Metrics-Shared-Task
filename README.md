@@ -1,6 +1,8 @@
 # Text Mining - Metrics-Shared-Task
 
-NOVA IMS - Text Mining - Final Project - Metrics Shared Task Repository
+Text Mining - Final Project - Metrics Shared Task Repository
+
+This project is created for the Text Mining course in NOVA Information Management School. The main objective of the project can be seen below. You can refer to main_nb for the work and proposed model.
 
 Project Description:
 
