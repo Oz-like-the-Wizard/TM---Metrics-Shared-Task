@@ -1,4 +1,4 @@
-# TM---Metrics-Shared-Task
+# Text Mining - Metrics-Shared-Task
 
 NOVA IMS - Text Mining - Final Project - Metrics Shared Task Repository
 
